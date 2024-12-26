@@ -1,0 +1,75 @@
+.projects-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  padding: 0 5%; /* Ajustement pour mieux voir les catégories */
+}
+
+.categories {
+  display: block
+}
+
+.categories * {
+  margin-bottom: 30px;
+}
+.category {
+  position: relative; /* Ajouté pour que le texte reste dans le div */
+  display: flex; /* Change de 'inline-block' à 'flex' */
+  flex-direction: column; /* Ajouté pour centrer le contenu verticalement */
+  justify-content: center; /* Centre le contenu verticalement */
+  align-items: center; /* Centre le contenu horizontalement */
+  background-color: rgba(0, 0, 0, 0.4); /* Rectangle opaque */
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+  overflow: hidden; /* Ajouté pour assurer que tout est bien rond */
+}
+
+.category:hover {
+  transform: scale(1.05);
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.category img {
+  display: block; /* Assure que l'image n'a pas de marge interne */
+  width: 400px; /* L'image dicte la largeur du div */
+  height: auto;
+  aspect-ratio: 16/9; /* Garde le ratio hauteur/largeur */
+  border-radius: 10px 10px 0 0; /* Arrondit uniquement les coins supérieurs */
+}
+
+h1{
+
+}
+.category h2, .category p {
+  padding: 10px 20px; /* Uniformise le padding pour le texte */
+  text-align: center; /* Centre le texte */
+}
+
+.category h2 {
+  margin-top: 10px; /* Espace après l'image */
+  font-size: 1.5rem;
+}
+
+.category p {
+  margin-bottom: 10px; /* Espace au bas avant la bordure du div */
+}
+@media screen and (max-width: 800px) {
+  .categories {
+    flex-direction: column;
+  }
+  .category img {
+    width: 100%; /* Remplit la largeur du div */
+    border-radius: 10px 10px 0 0; /* Arrondit uniquement les coins supérieurs */
+  }
+  .category h2 {
+    font-size: 1.2rem;
+  }
+  .category p {
+    margin-bottom: 20px; /* Espace au bas avant la bordure du div */
+  }
+  
+}

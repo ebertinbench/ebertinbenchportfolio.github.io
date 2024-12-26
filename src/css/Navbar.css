@@ -1,0 +1,38 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  padding: 0 10px; /* Correction de 'padding: 0 10' pour inclure l'unité px */
+}
+
+.navbar-logo img {
+  height: 70px;
+}
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar-links a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.navbar-links a:hover {
+  text-decoration: none;
+}
+
+li {
+  border: solid white 1px;
+  padding: 5px;
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Ajout d'une transition pour l'animation */
+}
+
+li:hover {
+  background-color: rgba(134, 134, 134, 0.8); /* Changement de la couleur de fond au survol */
+  transform: scale(1.1); /* Agrandissement légèrement au survol */
+}
