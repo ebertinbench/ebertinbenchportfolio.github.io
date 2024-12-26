@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/ebertinbenchportfolio/static/css/main.f855e6bc.css",
-    "main.js": "/ebertinbenchportfolio/static/js/main.336d7f42.js",
-    "static/js/453.906b0208.chunk.js": "/ebertinbenchportfolio/static/js/453.906b0208.chunk.js",
-    "static/media/logo.svg": "/ebertinbenchportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/ebertinbenchportfolio/static/css/main.f774432c.css",
+    "main.js": "/ebertinbenchportfolio/static/js/main.9f2ec488.js",
+    "static/media/background.jpg": "/ebertinbenchportfolio/static/media/background.a81dba59a51d9a14ca0e.jpg",
+    "static/media/cybersecurite.jpg": "/ebertinbenchportfolio/static/media/cybersecurite.678154a1afb34bf2af8e.jpg",
+    "static/media/fullstack.jpg": "/ebertinbenchportfolio/static/media/fullstack.e761c3eaa03694067d6d.jpg",
+    "static/media/logo.jpg": "/ebertinbenchportfolio/static/media/logo.acac6359aa49def46d27.jpg",
+    "static/media/gmail.png": "/ebertinbenchportfolio/static/media/gmail.d765005ce9d4caa3d69e.png",
+    "static/media/gituhb.png": "/ebertinbenchportfolio/static/media/gituhb.4432f0428363b4e194bf.png",
     "index.html": "/ebertinbenchportfolio/index.html",
-    "main.f855e6bc.css.map": "/ebertinbenchportfolio/static/css/main.f855e6bc.css.map",
-    "main.336d7f42.js.map": "/ebertinbenchportfolio/static/js/main.336d7f42.js.map",
-    "453.906b0208.chunk.js.map": "/ebertinbenchportfolio/static/js/453.906b0208.chunk.js.map"
+    "main.f774432c.css.map": "/ebertinbenchportfolio/static/css/main.f774432c.css.map",
+    "main.9f2ec488.js.map": "/ebertinbenchportfolio/static/js/main.9f2ec488.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.336d7f42.js"
+    "static/css/main.f774432c.css",
+    "static/js/main.9f2ec488.js"
   ]
 }
