@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ebertinbenchportfolio/static/css/main.f774432c.css",
-    "main.js": "/ebertinbenchportfolio/static/js/main.9f2ec488.js",
-    "static/media/background.jpg": "/ebertinbenchportfolio/static/media/background.a81dba59a51d9a14ca0e.jpg",
-    "static/media/cybersecurite.jpg": "/ebertinbenchportfolio/static/media/cybersecurite.678154a1afb34bf2af8e.jpg",
-    "static/media/fullstack.jpg": "/ebertinbenchportfolio/static/media/fullstack.e761c3eaa03694067d6d.jpg",
-    "static/media/logo.jpg": "/ebertinbenchportfolio/static/media/logo.acac6359aa49def46d27.jpg",
-    "static/media/gmail.png": "/ebertinbenchportfolio/static/media/gmail.d765005ce9d4caa3d69e.png",
-    "static/media/gituhb.png": "/ebertinbenchportfolio/static/media/gituhb.4432f0428363b4e194bf.png",
+    "main.css": "/ebertinbenchportfolio/static/css/main.bfeb0e77.css",
+    "main.js": "/ebertinbenchportfolio/static/js/main.f5f29850.js",
+    "static/js/453.5721f686.chunk.js": "/ebertinbenchportfolio/static/js/453.5721f686.chunk.js",
+    "static/media/bg-light.png": "/ebertinbenchportfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/ebertinbenchportfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/cisco1.jpg": "/ebertinbenchportfolio/static/media/cisco1.fa3a970ff31ff994b5d8.jpg",
+    "static/media/juniper.jpg": "/ebertinbenchportfolio/static/media/juniper.f5e5a03c4158beddb5fb.jpg",
     "index.html": "/ebertinbenchportfolio/index.html",
-    "main.f774432c.css.map": "/ebertinbenchportfolio/static/css/main.f774432c.css.map",
-    "main.9f2ec488.js.map": "/ebertinbenchportfolio/static/js/main.9f2ec488.js.map"
+    "main.bfeb0e77.css.map": "/ebertinbenchportfolio/static/css/main.bfeb0e77.css.map",
+    "main.f5f29850.js.map": "/ebertinbenchportfolio/static/js/main.f5f29850.js.map",
+    "453.5721f686.chunk.js.map": "/ebertinbenchportfolio/static/js/453.5721f686.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f774432c.css",
-    "static/js/main.9f2ec488.js"
+    "static/css/main.bfeb0e77.css",
+    "static/js/main.f5f29850.js"
   ]
 }
